@@ -1,5 +1,6 @@
 @echo off
-cd /d C:\wampneu\www\co5\co5Bundles\COH_Sync_Lima_Raspberry
+:: Wechselt automatisch in den Ordner, in dem die Batch liegt
+cd /d "%~dp0"
 
 set /p msg=Commit-Text eingeben: 
 
