@@ -1,5 +1,5 @@
 <?php
-// api.php – läuft auf dem Hoster
+// api.php – läuft auf dem Hoster 
 /*
 Das Script hat zwei Modi:
 

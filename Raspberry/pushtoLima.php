@@ -1,5 +1,5 @@
 <?php
-// pushtoLima.php – läuft auf dem Raspi
+// pushtoLima.php – läuft auf dem Raspi 
 /*
 -------------------------------------------------
 Ablauf:
